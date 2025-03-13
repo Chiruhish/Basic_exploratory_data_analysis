@@ -46,9 +46,9 @@ The goal is to clean the data, explore trends, and visualize key relationships t
 
 ---
 
-## 📥 Installation and Usage  
+## 📥 Additional Notes
+The dataset and analysis are intended for educational purposes only.
+Additional details and raw data can be shared upon request (subject to confidentiality)
 
-### 1. Clone the repository  
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+
 
